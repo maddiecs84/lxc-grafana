@@ -120,6 +120,7 @@ packages:
     - apt-transport-https
     - software-properties-common
     - grafana-enterprise
+    - openssh-server
     action: install
 
   - packages:
