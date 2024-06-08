@@ -119,7 +119,7 @@ packages:
     - gnupg
     - apt-transport-https
     - software-properties-common
-    - grafana-enterprise
+    - grafana-enterprise=11.0.0
     - openssh-server
     action: install
 
